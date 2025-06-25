@@ -36,15 +36,6 @@ PoseMate uses [MediaPipe](https://google.github.io/mediapipe/) and [OpenCV](http
 
 ---
 
-## 🎬 Demo
-Demo videos and images are available in the `demos/` folder:
-
-- `demos/Plank/plank.mp4`, `plank_correct.jpg`, `plank_wrong.jpg`
-- `demos/Squat/squat.mp4`
-- `demos/ShoulderPress/shoulderPressV.mp4`
-
-> "Try running the notebooks with these demo files for a quick start!"
-
 ---
 
 ## ⚙️ Setup & Installation
